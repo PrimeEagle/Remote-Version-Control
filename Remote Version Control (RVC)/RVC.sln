@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RVC", "http://localhost/RVC/RVC.csproj", "{C8255275-D1A7-4B97-98F7-2D0BC40C3D3F}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{C8255275-D1A7-4B97-98F7-2D0BC40C3D3F}.Debug.ActiveCfg = Debug|.NET
+		{C8255275-D1A7-4B97-98F7-2D0BC40C3D3F}.Debug.Build.0 = Debug|.NET
+		{C8255275-D1A7-4B97-98F7-2D0BC40C3D3F}.Release.ActiveCfg = Release|.NET
+		{C8255275-D1A7-4B97-98F7-2D0BC40C3D3F}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
